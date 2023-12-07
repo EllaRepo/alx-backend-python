@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Module that defines a function that returns the sum of float/integer
     numbers in the list
 """
