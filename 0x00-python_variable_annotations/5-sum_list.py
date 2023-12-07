@@ -12,7 +12,4 @@ def sum_list(input_list: List[float]) -> float:
     Returns:
         The sum of float numbers
     """
-    sum: float = 0.0
-    for num in input_list:
-        sum += num
-    return sum
+    return sum(input_list)
