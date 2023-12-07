@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Module that defines a function that takes a float multiplier and returns
    a function that multiply argument bu the multiplier and return the result
 """
